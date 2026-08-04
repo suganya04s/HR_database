@@ -94,7 +94,7 @@ Features of MySQL: Open source Fast and reliable Supports multiple users Stores 
 
 <img width="618" height="275" alt="image" src="https://github.com/user-attachments/assets/5374f930-5057-4bba-afe2-f12b3fd63026" />
 
-#### ALTER TABLE
+
 
 
 
