@@ -94,6 +94,33 @@ Features of MySQL: Open source Fast and reliable Supports multiple users Stores 
 
 <img width="618" height="275" alt="image" src="https://github.com/user-attachments/assets/5374f930-5057-4bba-afe2-f12b3fd63026" />
 
+#### ALTER TABLE
+
+#### Add a new column
+
+<img width="708" height="335" alt="image" src="https://github.com/user-attachments/assets/4948ff53-af3c-4a13-b5cb-e4ca7046204f" />
+
+#### Modify a column datatype
+
+<img width="682" height="318" alt="image" src="https://github.com/user-attachments/assets/9840ea2b-0d4a-4c29-ae75-49199c1b6e94" />
+
+#### Change column name and datatype
+
+<img width="651" height="347" alt="image" src="https://github.com/user-attachments/assets/39ce6df2-5827-45aa-879d-fda288a8e927" />
+
+
+#### Rename a column
+
+<img width="699" height="345" alt="image" src="https://github.com/user-attachments/assets/02b6c15e-3531-4f1b-af57-f5b4eb8826a5" />
+
+
+
+#### UPDATE TABLE
+
+<img width="702" height="495" alt="image" src="https://github.com/user-attachments/assets/e1bf28d5-d5dd-4f1d-9168-bf24fa6adf4b" />
+
+
+
 
 
 
