@@ -59,6 +59,25 @@ Example
 
 Features of MySQL: Open source Fast and reliable Supports multiple users Stores data in tables
 
-SQL Data Types
+### CREATE DATABASE
 
-INT FLOAT DECIMAL CHAR VARCHAR TEXT DATE TIME DATETIME TIMESTAMP BOOLEAN
+<img width="553" height="82" alt="Screenshot 2026-08-04 192628" src="https://github.com/user-attachments/assets/7a0754a1-924b-450b-874e-8b367ceaa085" />
+
+
+### CREATE TABLE
+
+<img width="948" height="383" alt="image" src="https://github.com/user-attachments/assets/2fc6444a-f1fa-4604-a430-5b45cd65e49d" />
+
+<img width="920" height="334" alt="image" src="https://github.com/user-attachments/assets/8e176980-e420-42de-86d0-f206d46be255" />
+
+<img width="911" height="387" alt="image" src="https://github.com/user-attachments/assets/7517e2c0-6b6e-4978-adbf-0116a57f7f83" />
+
+<img width="951" height="425" alt="image" src="https://github.com/user-attachments/assets/26f08838-a2fe-41f6-ab86-2091a26b0059" />
+
+### INSERT DATAS
+
+
+
+
+
+
