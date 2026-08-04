@@ -59,12 +59,12 @@ Example
 
 Features of MySQL: Open source Fast and reliable Supports multiple users Stores data in tables
 
-### CREATE DATABASE
+#### CREATE DATABASE
 
 <img width="553" height="82" alt="Screenshot 2026-08-04 192628" src="https://github.com/user-attachments/assets/7a0754a1-924b-450b-874e-8b367ceaa085" />
 
 
-### CREATE TABLE
+#### CREATE TABLE
 
 <img width="948" height="383" alt="image" src="https://github.com/user-attachments/assets/2fc6444a-f1fa-4604-a430-5b45cd65e49d" />
 
@@ -74,9 +74,27 @@ Features of MySQL: Open source Fast and reliable Supports multiple users Stores 
 
 <img width="951" height="425" alt="image" src="https://github.com/user-attachments/assets/26f08838-a2fe-41f6-ab86-2091a26b0059" />
 
-### INSERT DATAS
+#### INSERT DATAS
 
+<img width="1082" height="516" alt="image" src="https://github.com/user-attachments/assets/c100a620-b074-4a39-8dc3-860ac3edb893" />
 
+<img width="925" height="547" alt="image" src="https://github.com/user-attachments/assets/c6947df7-3078-4adf-a10f-ca47ec516ec6" />
+
+<img width="944" height="538" alt="image" src="https://github.com/user-attachments/assets/275dcc4e-abf6-4816-9a2a-a6c5fb01fb97" />
+
+<img width="1032" height="523" alt="image" src="https://github.com/user-attachments/assets/04d1cd72-c6f7-4b90-8e0a-aab7266bb097" />
+
+#### SELECT TABLES
+
+<img width="689" height="284" alt="image" src="https://github.com/user-attachments/assets/1743c8e2-5321-41e3-acc4-7d8542cab0ce" />
+
+<img width="478" height="269" alt="image" src="https://github.com/user-attachments/assets/564f6e3d-09d6-47fd-adf7-25f948cad59c" />
+
+<img width="567" height="291" alt="image" src="https://github.com/user-attachments/assets/f00efe9c-67b2-4766-b7f6-62f6320e3749" />
+
+<img width="618" height="275" alt="image" src="https://github.com/user-attachments/assets/5374f930-5057-4bba-afe2-f12b3fd63026" />
+
+#### ALTER TABLE
 
 
 
