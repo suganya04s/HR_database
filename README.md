@@ -163,6 +163,25 @@ Features of MySQL
 
     The ORDER BY clause is used to sort the result set in either ascending (ASC) or descending (DESC) order based on one or more columns.
 
+<img width="675" height="285" alt="image" src="https://github.com/user-attachments/assets/9766f04b-b53d-46e0-8325-00e0b60b30c2" />
+
+### GROUP BY Clause
+
+**Definition:**
+
+    The GROUP BY clause is used to group rows that have the same values in a specified column into summary rows. It is commonly used with aggregate functions such as COUNT(), SUM(), AVG(), MIN(), and MAX().
+
+### 1. COUNT()
+**Definition:**
+
+    The COUNT() function is used to count the total number of rows or non-NULL values in a column.
+
+<img width="535" height="318" alt="image" src="https://github.com/user-attachments/assets/1372fa4a-ecab-4271-8b7f-2f3692888a6b" />
+
+### 2. SUM()
+Definition:
+
+The SUM() function is used to calculate the total sum of numeric values in a specified column.
 
 
 ### ALTER 
