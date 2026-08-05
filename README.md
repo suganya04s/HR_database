@@ -140,6 +140,29 @@ Features of MySQL
 
 <img width="618" height="275" alt="image" src="https://github.com/user-attachments/assets/5374f930-5057-4bba-afe2-f12b3fd63026" />
 
+### FROM Clause
+
+**Definition:**
+
+    The FROM clause is used to specify the table from which the data will be retrieved. It tells the SQL query where to fetch the records.
+
+**example**
+<img width="689" height="284" alt="Screenshot 2026-08-04 201110" src="https://github.com/user-attachments/assets/6664ebe3-fec6-4e8a-930a-a07e2a04320d" />
+
+### WHERE Clause
+
+**Definition:**
+
+    The WHERE clause is used to filter records based on a specified condition. It returns only those rows that satisfy the given condition.
+
+<img width="796" height="176" alt="image" src="https://github.com/user-attachments/assets/79f1727d-1c3a-461b-b70b-4c231703cdf4" />
+
+### ORDER BY Clause
+
+**Definition**
+
+    The ORDER BY clause is used to sort the result set in either ascending (ASC) or descending (DESC) order based on one or more columns.
+
 
 
 ### ALTER 
