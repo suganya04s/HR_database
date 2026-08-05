@@ -2,22 +2,24 @@
 
 ### 1. Database
 
-  A Database is an organized collection of data stored electronically.
+    A Database is an organized collection of data stored electronically.
 
 **Example:**    
 
 **A college database stores:**
 
- - Student Details
- - Faculty Details
- - Marks
- - Attendance
+    - Student Details
+    - Faculty Details
+    - Marks
+    - Attendance
 
  **Example table:**
 
-Student_ID     Name         Department
-101            Suganya       CSE 
-102            Divya         IT
+    Student_ID     Name         Department
+    
+     101            Suganya       CSE 
+     
+     102            Divya         IT
 
 ### 2 DBMS (Database Management System)
 
