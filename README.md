@@ -140,6 +140,7 @@ Features of MySQL
 
 <img width="618" height="275" alt="image" src="https://github.com/user-attachments/assets/5374f930-5057-4bba-afe2-f12b3fd63026" />
 
+
 ### FROM Clause
 
 **Definition:**
@@ -149,6 +150,7 @@ Features of MySQL
 **example**
 <img width="689" height="284" alt="Screenshot 2026-08-04 201110" src="https://github.com/user-attachments/assets/6664ebe3-fec6-4e8a-930a-a07e2a04320d" />
 
+
 ### WHERE Clause
 
 **Definition:**
@@ -156,6 +158,7 @@ Features of MySQL
     The WHERE clause is used to filter records based on a specified condition. It returns only those rows that satisfy the given condition.
 
 <img width="796" height="176" alt="image" src="https://github.com/user-attachments/assets/79f1727d-1c3a-461b-b70b-4c231703cdf4" />
+
 
 ### ORDER BY Clause
 
@@ -165,11 +168,13 @@ Features of MySQL
 
 <img width="675" height="285" alt="image" src="https://github.com/user-attachments/assets/9766f04b-b53d-46e0-8325-00e0b60b30c2" />
 
+
 ### GROUP BY Clause
 
 **Definition:**
 
     The GROUP BY clause is used to group rows that have the same values in a specified column into summary rows. It is commonly used with aggregate functions such as COUNT(), SUM(), AVG(), MIN(), and MAX().
+
 
 ### 1. COUNT()
 **Definition:**
@@ -178,10 +183,60 @@ Features of MySQL
 
 <img width="535" height="318" alt="image" src="https://github.com/user-attachments/assets/1372fa4a-ecab-4271-8b7f-2f3692888a6b" />
 
+
 ### 2. SUM()
 Definition:
 
 The SUM() function is used to calculate the total sum of numeric values in a specified column.
+
+<img width="527" height="316" alt="image" src="https://github.com/user-attachments/assets/581c6826-8e8a-4a5b-81d2-482c3021cc05" />
+
+
+### 3. AVG()
+ 
+**Definition:**
+
+    The AVG() function is used to calculate the average value of a numeric column.
+
+<img width="656" height="320" alt="image" src="https://github.com/user-attachments/assets/a44bbb96-805e-4f34-b789-0ef5f5a53790" 
+
+
+### 4. MAX()
+
+**Definition:**
+
+    The MAX() function is used to return the highest value from a specified column.
+
+<img width="676" height="312" alt="image" src="https://github.com/user-attachments/assets/772174f8-951b-4fc9-8e6d-acd8c4c70f62" />
+
+
+### 5. MIN()
+
+**Definition:**
+
+    The MIN() function is used to return the lowest value from a specified column.
+
+<img width="616" height="313" alt="image" src="https://github.com/user-attachments/assets/51a79de9-a03f-4713-9340-dd5edef27e28" />
+
+
+### HAVING Clause
+
+**Definition:**
+
+    The HAVING clause is used to filter grouped records after the GROUP BY clause has been applied. It is mainly used with aggregate functions.
+
+<img width="601" height="294" alt="image" src="https://github.com/user-attachments/assets/cf104ba7-a6b8-4e66-b0b3-6e54ab6d4889" />
+
+
+### LIMIT Clause
+
+**Definition:**
+
+    The LIMIT clause is used to restrict the number of rows returned by a query. It is useful when you want to display only a specific number of records.
+
+<img width="613" height="222" alt="image" src="https://github.com/user-attachments/assets/5f1c37c0-452b-4a61-b9cf-98d1631d2db1" />
+
+
 
 
 ### ALTER 
