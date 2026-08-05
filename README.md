@@ -94,45 +94,66 @@ Features of MySQL
 <img width="951" height="425" alt="image" src="https://github.com/user-attachments/assets/26f08838-a2fe-41f6-ab86-2091a26b0059" />
 
 
-#### INSERT 
+### INSERT 
 
 **Definition:**
     
     The INSERT command is used to add one or more new records into a database table. It allows users to store new information in the database.
     
 
-### INSERT DATAS INTO EMPLOYEE1 TABLE
+#### INSERT DATAS INTO EMPLOYEE1 TABLE
 
 <img width="1082" height="516" alt="image" src="https://github.com/user-attachments/assets/c100a620-b074-4a39-8dc3-860ac3edb893" />
 
-### INSERT DATAS INTO ATTENDANCE1 TABLE
+#### INSERT DATAS INTO ATTENDANCE1 TABLE
 
 <img width="925" height="547" alt="image" src="https://github.com/user-attachments/assets/c6947df7-3078-4adf-a10f-ca47ec516ec6" />
 
-### INSERT DATAS INTO PAYROLL1 TABLE
+#### INSERT DATAS INTO PAYROLL1 TABLE
 
 <img width="944" height="538" alt="image" src="https://github.com/user-attachments/assets/275dcc4e-abf6-4816-9a2a-a6c5fb01fb97" />
 
-### INSERT DATAS INTO LEAVE_REQUESTS1 TABLE
+#### INSERT DATAS INTO LEAVE_REQUESTS1 TABLE
 
 <img width="1032" height="523" alt="image" src="https://github.com/user-attachments/assets/04d1cd72-c6f7-4b90-8e0a-aab7266bb097" />
 
 
-#### SELECT 
+### SELECT 
 
 **Definition:**
 
     The SELECT command is the most commonly used SQL command. It retrieves data from one or more tables and can be combined with clauses such as WHERE, ORDER BY, GROUP BY, and HAVING to produce meaningful results.
+    
+#### RETRIVES EMPLOYEE1 TABLE
 
 <img width="689" height="284" alt="image" src="https://github.com/user-attachments/assets/1743c8e2-5321-41e3-acc4-7d8542cab0ce" />
 
+#### RETRIVES ATTENDANCE1 TABLE
+
 <img width="478" height="269" alt="image" src="https://github.com/user-attachments/assets/564f6e3d-09d6-47fd-adf7-25f948cad59c" />
+
+#### RETRIVES PAYROLL1 TABLE
 
 <img width="567" height="291" alt="image" src="https://github.com/user-attachments/assets/f00efe9c-67b2-4766-b7f6-62f6320e3749" />
 
+#### RETRIVES LEAVE_requests1 TABLE
+
 <img width="618" height="275" alt="image" src="https://github.com/user-attachments/assets/5374f930-5057-4bba-afe2-f12b3fd63026" />
 
-#### ALTER TABLE
+
+
+### ALTER 
+
+**definition:**
+
+    MySQL ALTER statement is used when you want to change the name of your table or any table field.
+    
+    It is also used to add or delete an existing column in a table.
+    
+    The ALTER statement is always used with "ADD", "DROP" and "MODIFY" commands according to the situation.
+    
+<img width="1972" height="228" alt="image" src="https://github.com/user-attachments/assets/4e6c586a-cd18-4f2a-ae09-b3294c407e5a" />
+
 
 #### Add a new column
 
@@ -146,25 +167,43 @@ Features of MySQL
 
 <img width="651" height="347" alt="image" src="https://github.com/user-attachments/assets/39ce6df2-5827-45aa-879d-fda288a8e927" />
 
-
 #### Rename a column
 
 <img width="699" height="345" alt="image" src="https://github.com/user-attachments/assets/02b6c15e-3531-4f1b-af57-f5b4eb8826a5" />
 
 
-#### UPDATE TABLE
+### UPDATE 
 
+**Definition:**
+
+    The UPDATE command is used to modify the existing records in a table. It can update one or multiple rows based on a specified condition.
+    
 <img width="702" height="495" alt="image" src="https://github.com/user-attachments/assets/e1bf28d5-d5dd-4f1d-9168-bf24fa6adf4b" />
 
-#### DELETE
+
+### DELETE
+
+**Definition:**
+
+    The DELETE command is used to remove one or more records from a table. It supports conditions to delete only the required records while keeping the table structure unchanged.
 
 <img width="802" height="280" alt="image" src="https://github.com/user-attachments/assets/0012cc45-dce6-4b94-8b9f-c270685a7f88" />
 
-#### TRUNCATE
+
+### TRUNCATE
+
+**Definition:**
+
+    The TRUNCATE command is used to remove all records from a table while preserving the table structure, columns, indexes, and constraints. It is faster than the DELETE command because it removes all rows at once.
 
 <img width="720" height="215" alt="image" src="https://github.com/user-attachments/assets/afaffec3-1bc3-46a2-829a-995172eb790c" />
 
-#### DROP
+
+### DROP
+
+**Definition:**
+
+    The DROP command is used to permanently remove a database object, such as a table or database, along with all its data, structure, indexes, and constraints. Once dropped, the object cannot be used unless it is created again.
 
 <img width="605" height="222" alt="image" src="https://github.com/user-attachments/assets/9b6e45b4-fa9c-432e-bce0-e98604f5c9bb" />
 
