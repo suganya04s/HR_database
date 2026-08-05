@@ -4,15 +4,6 @@
 
     A Database is an organized collection of data stored electronically.
 
-**Example:**    
-
-**A college database stores:**
-
-    - Student Details
-    - Faculty Details
-    - Marks
-    - Attendance
-
  **Example table:**
 
     Student_ID     Name         Department
@@ -44,7 +35,7 @@ Department Table:
      2          IT
 
 
-### SQL (Structured Query Language)
+### 4. SQL (Structured Query Language)
 
     SQL is a standard language used to create, manage, and manipulate data in relational databases.
 
@@ -57,7 +48,7 @@ Department Table:
     - Manage users and permissions
     - Create views, indexes, and stored procedures
     
-### MYSQL
+### 5. MYSQL
 
     MySQL is an open-source RDBMS developed by Oracle Corporation that stores data in tables and uses SQL to perform database operations.
 
@@ -69,12 +60,12 @@ Features of MySQL
     -Stores data in tables
 
     
-#### CREATE DATABASE
+### CREATE DATABASE
 
 <img width="553" height="82" alt="Screenshot 2026-08-04 192628" src="https://github.com/user-attachments/assets/7a0754a1-924b-450b-874e-8b367ceaa085" />
 
 
-#### CREATE TABLE
+### CREATE TABLE
 
 **Definition**
 
@@ -103,17 +94,35 @@ Features of MySQL
 <img width="951" height="425" alt="image" src="https://github.com/user-attachments/assets/26f08838-a2fe-41f6-ab86-2091a26b0059" />
 
 
-#### INSERT DATAS
+#### INSERT 
+
+**Definition:**
+    
+    The INSERT command is used to add one or more new records into a database table. It allows users to store new information in the database.
+    
+
+### INSERT DATAS INTO EMPLOYEE1 TABLE
 
 <img width="1082" height="516" alt="image" src="https://github.com/user-attachments/assets/c100a620-b074-4a39-8dc3-860ac3edb893" />
 
+### INSERT DATAS INTO ATTENDANCE1 TABLE
+
 <img width="925" height="547" alt="image" src="https://github.com/user-attachments/assets/c6947df7-3078-4adf-a10f-ca47ec516ec6" />
+
+### INSERT DATAS INTO PAYROLL1 TABLE
 
 <img width="944" height="538" alt="image" src="https://github.com/user-attachments/assets/275dcc4e-abf6-4816-9a2a-a6c5fb01fb97" />
 
+### INSERT DATAS INTO LEAVE_REQUESTS1 TABLE
+
 <img width="1032" height="523" alt="image" src="https://github.com/user-attachments/assets/04d1cd72-c6f7-4b90-8e0a-aab7266bb097" />
 
-#### SELECT TABLES
+
+#### SELECT 
+
+**Definition:**
+
+    The SELECT command is the most commonly used SQL command. It retrieves data from one or more tables and can be combined with clauses such as WHERE, ORDER BY, GROUP BY, and HAVING to produce meaningful results.
 
 <img width="689" height="284" alt="image" src="https://github.com/user-attachments/assets/1743c8e2-5321-41e3-acc4-7d8542cab0ce" />
 
