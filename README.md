@@ -304,6 +304,39 @@ The SUM() function is used to calculate the total sum of numeric values in a spe
 
 <img width="605" height="222" alt="image" src="https://github.com/user-attachments/assets/9b6e45b4-fa9c-432e-bce0-e98604f5c9bb" />
 
+### INNER JOIN
+
+**Definition:**
+
+    INNER JOIN is used to retrieve only the records that have matching values in both tables. If there is no matching record in either table, it is not included in the result.
+
+**Key Point:** Returns only matching rows from both tables.
+
+<img width="630" height="355" alt="image" src="https://github.com/user-attachments/assets/7f1e62bd-4a5a-4220-a2db-86641956f980" />
+
+### LEFT JOIN (LEFT OUTER JOIN)
+
+**Definition:**
+
+    LEFT JOIN is used to retrieve all records from the left table and the matching records from the right table. If there is no matching record in the right table, the result displays NULL values for the right table's columns.
+
+**Key Point:** Returns all rows from the left table and only the matching rows from the right table.
+
+<img width="649" height="356" alt="image" src="https://github.com/user-attachments/assets/b14b3f13-71f5-425d-ba45-c2edd832a802" />
+
+### RIGHT JOIN (RIGHT OUTER JOIN)
+
+**Definition:**
+
+    RIGHT JOIN is used to retrieve all records from the right table and the matching records from the left table. If there is no matching record in the left table, the result displays NULL values for the left table's columns.
+
+**Key Point:** Returns all rows from the right table and only the matching rows from the left table.
+
+<img width="662" height="348" alt="image" src="https://github.com/user-attachments/assets/c919b5c3-92f0-40f3-b7e4-b2b90e20135c" />
+
+
+
+
 
 
 
