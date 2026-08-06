@@ -198,7 +198,7 @@ The SUM() function is used to calculate the total sum of numeric values in a spe
 
     The AVG() function is used to calculate the average value of a numeric column.
 
-<img width="656" height="320" alt="image" src="https://github.com/user-attachments/assets/a44bbb96-805e-4f34-b789-0ef5f5a53790" 
+<img width="656" height="320" alt="image" src="https://github.com/user-attachments/assets/a44bbb96-805e-4f34-b789-0ef5f5a53790" />
 
 
 ### 4. MAX()
@@ -257,6 +257,7 @@ The SUM() function is used to calculate the total sum of numeric values in a spe
     It is also used to add or delete an existing column in a table.
     
     The ALTER statement is always used with "ADD", "DROP" and "MODIFY" commands according to the situation.
+    
     
 <img width="1972" height="228" alt="image" src="https://github.com/user-attachments/assets/4e6c586a-cd18-4f2a-ae09-b3294c407e5a" />
 
