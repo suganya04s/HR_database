@@ -253,9 +253,9 @@ The SUM() function is used to calculate the total sum of numeric values in a spe
 **definition:**
 
     MySQL ALTER statement is used when you want to change the name of your table or any table field.
-    
+
     It is also used to add or delete an existing column in a table.
-    
+
     The ALTER statement is always used with "ADD", "DROP" and "MODIFY" commands according to the situation.
     
     
