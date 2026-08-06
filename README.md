@@ -236,6 +236,15 @@ The SUM() function is used to calculate the total sum of numeric values in a spe
 
 <img width="613" height="222" alt="image" src="https://github.com/user-attachments/assets/5f1c37c0-452b-4a61-b9cf-98d1631d2db1" />
 
+### DISTINCT
+
+**Definition**
+
+    DISTINCT is a SQL keyword used to remove duplicate values from the result set and return only unique (different) records from one or more columns.
+
+    It is commonly used when a table contains repeated values and you want to display each value only once.
+
+<img width="608" height="233" alt="image" src="https://github.com/user-attachments/assets/32d8ed41-cfd2-413b-ac9b-bd09c6ae31ca" />
 
 
 
