@@ -440,11 +440,15 @@ The SUM() function is used to calculate the total sum of numeric values in a spe
 
     Extracts a specified part of a string.
 
-<img width="669" height="407" alt="image" src="https://github.com/user-attachments/assets/3dc91114-c3f2-4cde-9119-97e5c43abfcf" />
+<img width="610" height="377" alt="image" src="https://github.com/user-attachments/assets/2898ac61-7686-4bb8-9682-a31d7f12443d" />
+
 
 #### LEFT()	
 
     Returns the leftmost specified number of characters from a string.
+
+<img width="734" height="450" alt="image" src="https://github.com/user-attachments/assets/13c8cb2d-4f0f-449e-bab5-3df33dad051f" />
+
 #### RIGHT()
 
     Returns the rightmost specified number of characters from a string.
@@ -454,12 +458,21 @@ The SUM() function is used to calculate the total sum of numeric values in a spe
 #### REPLACE()
 
     Replaces all occurrences of a specified substring with another substring.
+
+<img width="630" height="309" alt="image" src="https://github.com/user-attachments/assets/5f5e2e48-833f-40bd-8890-0c768840a708" />
+
 #### TRIM()
 
     Removes leading and trailing spaces from a string.
+
+<img width="698" height="230" alt="image" src="https://github.com/user-attachments/assets/38f0580a-1bcb-4b54-bfbb-32b968228f04" />
+
 #### REVERSE()	
 
     Reverses the characters in a string.
+
+<img width="700" height="343" alt="image" src="https://github.com/user-attachments/assets/a5328837-2caf-4514-8d7c-39b7841a1dea" />
+
 
 
 ### ALTER 
