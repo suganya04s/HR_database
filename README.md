@@ -246,6 +246,40 @@ The SUM() function is used to calculate the total sum of numeric values in a spe
 
 <img width="608" height="233" alt="image" src="https://github.com/user-attachments/assets/32d8ed41-cfd2-413b-ac9b-bd09c6ae31ca" />
 
+### ARITHMETIC OPERATORS:
+
+##### + (Addition):
+
+     Adds two numeric values.
+
+<img width="678" height="440" alt="image" src="https://github.com/user-attachments/assets/de74f059-3591-4db7-81f3-4b99a4c5690e" />
+
+#### Subtraction (-)
+ 
+    Subtracts one numeric value from another.
+    
+<img width="827" height="426" alt="image" src="https://github.com/user-attachments/assets/638baccb-c81c-4bd4-9177-42c5268f8eb1" />
+
+#### * (MULTIPLICATION)
+
+    Multiplies two numeric values.
+
+<img width="693" height="384" alt="image" src="https://github.com/user-attachments/assets/5e2689f9-b36e-4827-8667-81ccbddbd6b9" />
+
+#### /  (DIVITION)
+
+    Divides one numeric value by another.
+
+<img width="648" height="372" alt="image" src="https://github.com/user-attachments/assets/bff3312b-ca86-455d-8f13-90a751c839dc" />
+
+#### % (MODULUS)
+
+    Returns the remainder after division.
+
+
+
+
+
 
 
 ### ALTER 
