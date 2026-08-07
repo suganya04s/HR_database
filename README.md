@@ -248,6 +248,10 @@ The SUM() function is used to calculate the total sum of numeric values in a spe
 
 ### ARITHMETIC OPERATORS:
 
+**Definition:**
+
+    Arithmetic operators are used to perform mathematical calculations on numeric values in SQL.
+
 ##### + (Addition):
 
      Adds two numeric values.
@@ -272,10 +276,37 @@ The SUM() function is used to calculate the total sum of numeric values in a spe
 
 <img width="648" height="372" alt="image" src="https://github.com/user-attachments/assets/bff3312b-ca86-455d-8f13-90a751c839dc" />
 
-#### % (MODULUS)
 
-    Returns the remainder after division.
+### COMPARITION OPERATORS
 
+**Definition:**
+
+    Comparison operators are used to compare two values. They return TRUE if the condition is satisfied; otherwise, they return FALSE.
+
+	
+#### = (equal to)
+
+     Checks if two values are equal.
+     
+!= or <> (not equal to)
+
+    Checks if two values are not equal.
+
+    
+> (greater then)
+
+       Checks if the left value is greater than the right value.
+       
+< (lesser then)	
+
+    Checks if the left value is less than the right value.
+>= (greater then or equal to)
+
+       	Checks if the left value is greater than or equal to the right value.
+        
+<= (lesser then or equal to)	
+
+    Checks if the left value is less than or equal to the right value.
 
 
 
