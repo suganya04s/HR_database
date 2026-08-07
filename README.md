@@ -287,30 +287,179 @@ The SUM() function is used to calculate the total sum of numeric values in a spe
 #### = (equal to)
 
      Checks if two values are equal.
+
+<img width="867" height="242" alt="image" src="https://github.com/user-attachments/assets/382253d7-2f93-4d04-92e3-3d228079bf46" />
+
      
 #### != or <> (not equal to)
 
     Checks if two values are not equal.
 
+<img width="823" height="278" alt="image" src="https://github.com/user-attachments/assets/72010598-c531-432e-b213-ffb5da97ec56" />
+
+
     
 #### > (greater then)
 
        Checks if the left value is greater than the right value.
+
+<img width="740" height="274" alt="image" src="https://github.com/user-attachments/assets/e816c6b7-e5d8-45af-91df-209bd3044a24" />
+
        
 #### < (lesser then)	
 
     Checks if the left value is less than the right value.
+
+<img width="832" height="227" alt="image" src="https://github.com/user-attachments/assets/1ee83ec9-e301-4e44-8213-9352184adc9e" />
+
 #### >= (greater then or equal to)
 
        	Checks if the left value is greater than or equal to the right value.
+
+<img width="825" height="322" alt="image" src="https://github.com/user-attachments/assets/61f1c458-7d01-4369-940a-841f63a70ecf" />
+
         
 #### <= (lesser then or equal to)	
 
     Checks if the left value is less than or equal to the right value.
 
+<img width="827" height="289" alt="image" src="https://github.com/user-attachments/assets/d692460f-9609-4ac2-9f0a-be39ec0ab421" />
 
 
 
+### LOGICAL OPEARATOR
+
+**Definition:**
+
+    Logical operators are used to combine multiple conditions in a SQL query.
+
+
+#### AND	
+
+    Returns TRUE only if all conditions are TRUE.
+
+<img width="678" height="308" alt="image" src="https://github.com/user-attachments/assets/e9ea64aa-6181-493d-b0bf-118d4669aec8" />
+
+	
+#### OR	
+    Returns TRUE if at least one condition is TRUE.
+
+<img width="696" height="317" alt="image" src="https://github.com/user-attachments/assets/71521f6e-fc2e-4c9f-80ec-0062ade3bb93" />
+
+	
+#### NOT	
+
+    Reverses the result of a condition (TRUE becomes FALSE and FALSE becomes TRUE).
+
+<img width="657" height="330" alt="image" src="https://github.com/user-attachments/assets/e61d2fdc-997c-4f18-bc34-b0f8f0975b89" />
+
+
+### SPECIAL OPEARATORS
+
+**Definition:**
+
+    Special operators are used to perform special types of comparisons and filtering in SQL queries.
+
+#### BETWEEN	
+
+    Selects values within a specified range (inclusive).
+
+<img width="671" height="242" alt="image" src="https://github.com/user-attachments/assets/a9e81905-0784-46e7-ab3d-65910f45441f" />
+
+#### IN	
+
+    Checks whether a value matches any value in a given list.
+
+<img width="788" height="307" alt="image" src="https://github.com/user-attachments/assets/22305ea5-57fb-45a6-8168-57fa31346036" />
+
+	
+#### NOT IN	
+
+    Checks whether a value does not match any value in a given list.
+
+<img width="711" height="243" alt="image" src="https://github.com/user-attachments/assets/b45ef5a8-3c98-4697-9904-4a111e47326b" />
+
+	
+#### LIKE
+
+     Searches for a specified pattern in a column.
+	 
+<img width="793" height="293" alt="image" src="https://github.com/user-attachments/assets/bbf4cad5-5383-4537-bbe7-bc8993c8a1f2" />
+
+
+	 
+#### IS NULL	
+
+    Checks whether a column contains NULL values.
+
+<img width="810" height="272" alt="image" src="https://github.com/user-attachments/assets/828f3f0d-1d72-4c43-bb94-b8c7c8fe283b" />
+
+#### IS NOT NULL	
+
+    Checks whether a column contains non-NULL values.
+
+<img width="753" height="338" alt="image" src="https://github.com/user-attachments/assets/1746cde9-13fc-44ea-85e5-1059fd4283b7" />
+
+### STRING FUNCTIONS
+
+**Definition:**
+
+    String functions are built-in SQL functions used to manipulate and process text (character) data.
+
+#### CONCAT()	
+
+    Combines two or more strings into a single string.
+
+<img width="690" height="393" alt="image" src="https://github.com/user-attachments/assets/1aedf951-6c31-4a6c-bf33-7507ee59e395" />
+
+#### UPPER()	
+
+    Converts all characters in a string to uppercase.
+
+<img width="739" height="336" alt="image" src="https://github.com/user-attachments/assets/25ab55f3-bdaa-4aca-8e30-cf8ee68e0a48" />
+
+#### LOWER()
+
+    Converts all characters in a string to lowercase.
+
+<img width="651" height="376" alt="image" src="https://github.com/user-attachments/assets/b9cd175d-2147-4139-bbd0-da5fa9c60223" />
+
+#### LENGTH()	
+
+    Returns the number of bytes in a string.
+
+<img width="615" height="341" alt="image" src="https://github.com/user-attachments/assets/7b2a60c2-0786-457f-99a2-684148621dae" />
+
+#### CHAR_LENGTH()	
+
+    Returns the number of characters in a string.
+
+<img width="798" height="381" alt="image" src="https://github.com/user-attachments/assets/5a586a2a-e9af-416d-8299-19888fdb0c3f" />
+
+#### SUBSTRING()	
+
+    Extracts a specified part of a string.
+
+<img width="669" height="407" alt="image" src="https://github.com/user-attachments/assets/3dc91114-c3f2-4cde-9119-97e5c43abfcf" />
+
+#### LEFT()	
+
+    Returns the leftmost specified number of characters from a string.
+#### RIGHT()
+
+    Returns the rightmost specified number of characters from a string.
+
+<img width="700" height="378" alt="image" src="https://github.com/user-attachments/assets/b4224f17-d669-4dc4-9d23-bb275cfb9816" />
+
+#### REPLACE()
+
+    Replaces all occurrences of a specified substring with another substring.
+#### TRIM()
+
+    Removes leading and trailing spaces from a string.
+#### REVERSE()	
+
+    Reverses the characters in a string.
 
 
 ### ALTER 
