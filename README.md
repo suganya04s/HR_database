@@ -288,23 +288,23 @@ The SUM() function is used to calculate the total sum of numeric values in a spe
 
      Checks if two values are equal.
      
-!= or <> (not equal to)
+#### != or <> (not equal to)
 
     Checks if two values are not equal.
 
     
-> (greater then)
+#### > (greater then)
 
        Checks if the left value is greater than the right value.
        
-< (lesser then)	
+#### < (lesser then)	
 
     Checks if the left value is less than the right value.
->= (greater then or equal to)
+#### >= (greater then or equal to)
 
        	Checks if the left value is greater than or equal to the right value.
         
-<= (lesser then or equal to)	
+#### <= (lesser then or equal to)	
 
     Checks if the left value is less than or equal to the right value.
 
