@@ -124,19 +124,19 @@ Features of MySQL
 
     The SELECT command is the most commonly used SQL command. It retrieves data from one or more tables and can be combined with clauses such as WHERE, ORDER BY, GROUP BY, and HAVING to produce meaningful results.
     
-#### RETRIVES EMPLOYEE1 TABLE
+#### RETRIVE EMPLOYEE1 TABLE
 
 <img width="689" height="284" alt="image" src="https://github.com/user-attachments/assets/1743c8e2-5321-41e3-acc4-7d8542cab0ce" />
 
-#### RETRIVES ATTENDANCE1 TABLE
+#### RETRIVE ATTENDANCE1 TABLE
 
 <img width="478" height="269" alt="image" src="https://github.com/user-attachments/assets/564f6e3d-09d6-47fd-adf7-25f948cad59c" />
 
-#### RETRIVES PAYROLL1 TABLE
+#### RETRIVE PAYROLL1 TABLE
 
 <img width="567" height="291" alt="image" src="https://github.com/user-attachments/assets/f00efe9c-67b2-4766-b7f6-62f6320e3749" />
 
-#### RETRIVES LEAVE_requests1 TABLE
+#### RETRIVE LEAVE_requests1 TABLE
 
 <img width="618" height="275" alt="image" src="https://github.com/user-attachments/assets/5374f930-5057-4bba-afe2-f12b3fd63026" />
 
