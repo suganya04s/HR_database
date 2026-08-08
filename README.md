@@ -571,12 +571,110 @@ The SUM() function is used to calculate the total sum of numeric values in a spe
 
 <img width="662" height="348" alt="image" src="https://github.com/user-attachments/assets/c919b5c3-92f0-40f3-b7e4-b2b90e20135c" />
 
+### SUB QUERY
+
+**Definition:**
+
+    A subquery is a query written inside another SQL query. It is used to obtain a result that is then used by the outer query
+	.
+#### Employees whose CTC is greater than average CTC
+
+<img width="818" height="352" alt="image" src="https://github.com/user-attachments/assets/e716d2db-563c-41ff-be61-4846addabbcc" />
+
+#### Employees who have attendance status Absent
+
+<img width="930" height="339" alt="image" src="https://github.com/user-attachments/assets/cb6a2696-1f2c-43fc-ab9e-c97a80f70c18" />
 
 
+### CTE (COMMON TABLE EPRESSION)
+
+**Definition:**
+
+    CTE (Common Table Expression) is a temporary named result set created using the WITH keyword. It makes complex queries easier to read and reuse.
+
+	
+#### Calculate net salary using CTE
+
+<img width="635" height="543" alt="image" src="https://github.com/user-attachments/assets/a765ac18-91de-444f-b28e-984ecc8dcdc8" />
+
+#### CTE with attendance
+
+<img width="639" height="353" alt="image" src="https://github.com/user-attachments/assets/f4660bea-b561-49c2-be9d-b210f432f189" />
 
 
+### WINDOW FUNCTIONS
+
+**Definition:**
+
+    A window function performs calculations across a set of related rows without combining those rows into a single row.
+
+    Unlike GROUP BY, a window function keeps the individual rows.
+**
+Common window functions:**
+
+    ROW_NUMBER()
+    RANK()
+    DENSE_RANK()
+    SUM()
+    AVG()
+    MIN()
+    MAX()
+    LAG()
+    LEAD()
+
+#### ROW_NUMBER()
+
+**Definition:**
+
+    ROW_NUMBER() assigns a unique sequential number to each row based on the specified ordering.
+
+#### Rank employees according to CTC:
 
 
+<img width="672" height="467" alt="image" src="https://github.com/user-attachments/assets/4fa71044-6a41-4096-9582-535eeecd7a55" />
+
+#### RANK()
+
+**Definition:**
+
+    RANK() assigns a rank to each row based on the specified ordering. If two rows have the same value, they receive the same rank, and the next rank is skipped.
 
 
+<img width="626" height="448" alt="image" src="https://github.com/user-attachments/assets/c6f76cee-3bc4-4b4d-8577-4506fadac3c0" />
 
+
+#### DENSE_RANK()
+
+**Definition:**
+
+    DENSE_RANK() assigns the same rank to equal values, but unlike RANK(), it does not skip the next rank.
+
+<img width="635" height="456" alt="image" src="https://github.com/user-attachments/assets/8511df5c-2180-4ae4-8f1d-04c48ef4881b" />
+
+
+### PARTITION BY
+
+**Definition:**
+
+    PARTITION BY divides the rows into groups before applying a window function.
+
+
+<img width="676" height="550" alt="image" src="https://github.com/user-attachments/assets/682aa976-084a-424b-8da3-27866c975610" />
+
+
+### LEAD()
+
+**Definition:**
+
+    LEAD() retrieves the value from the next row in the specified order.
+
+<img width="633" height="423" alt="image" src="https://github.com/user-attachments/assets/cf6f53a1-3808-401a-a3d4-66d7f6825fc8" />
+
+
+### LAG()
+
+**Definition:**
+
+    LAG() retrieves the value from the previous row in the specified order.
+
+<img width="689" height="431" alt="image" src="https://github.com/user-attachments/assets/a3f8866d-93c5-4627-990f-e70611087485" />
