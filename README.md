@@ -678,3 +678,21 @@ Common window functions:**
     LAG() retrieves the value from the previous row in the specified order.
 
 <img width="689" height="431" alt="image" src="https://github.com/user-attachments/assets/a3f8866d-93c5-4627-990f-e70611087485" />
+
+
+### VIEW
+
+**definition:**
+
+     A VIEW in SQL is like a virtual table. It doesn’t store data itself but shows the result of a query as if it were a table. You can query a view just like a normal table.
+
+<img width="473" height="220" alt="image" src="https://github.com/user-attachments/assets/6d7fde00-0003-4382-930b-72627d56a44a" />
+
+<img width="637" height="227" alt="image" src="https://github.com/user-attachments/assets/24e11fdd-5ff7-47c7-aec2-79a6d75d663f" />
+
+### stored procedures
+
+    A Stored Procedure in SQL is a precompiled collection of one or more SQL statements stored in the database, which can be executed as a single unit. It improves performance, supports parameters, enhances security, and allows reuse of complex logic.
+
+	
+
