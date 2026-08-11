@@ -175,6 +175,9 @@ Features of MySQL
 
     The GROUP BY clause is used to group rows that have the same values in a specified column into summary rows. It is commonly used with aggregate functions such as COUNT(), SUM(), AVG(), MIN(), and MAX().
 
+<img width="656" height="342" alt="image" src="https://github.com/user-attachments/assets/b6ffd081-8bf6-4afa-b64d-0efab5b49b6e" />
+
+### AGGRIGATE FUNCTIONS
 
 ### 1. COUNT()
 **Definition:**
