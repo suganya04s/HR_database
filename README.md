@@ -694,5 +694,10 @@ Common window functions:**
 
     A Stored Procedure in SQL is a precompiled collection of one or more SQL statements stored in the database, which can be executed as a single unit. It improves performance, supports parameters, enhances security, and allows reuse of complex logic.
 
+<img width="704" height="400" alt="image" src="https://github.com/user-attachments/assets/e0654f67-862b-4731-9a90-d23d3b3dd5c1" />
+
+<img width="697" height="107" alt="image" src="https://github.com/user-attachments/assets/b5bd46cf-2276-481b-b4fc-44fd937b54ec" />
+
+
 	
 
