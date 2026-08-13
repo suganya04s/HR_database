@@ -1,4 +1,4 @@
-# sql_syllabus
+# HR database management system | MySQL, SQL
 
 ### 1. Database
 
